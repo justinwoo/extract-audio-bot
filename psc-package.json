@@ -1,0 +1,13 @@
+{
+  "name": "extract-audio-bot",
+  "set": "160618",
+  "source": "https://github.com/justinwoo/spacchetti.git",
+  "depends": [
+    "aff",
+    "console",
+    "node-fs-aff",
+    "node-telegram-bot-api",
+    "prelude",
+    "tortellini"
+  ]
+}
